@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@binance-chain/commitlint-config": "^0.3.0",
+    "@binance-chain/commitlint-config": "^9.4.3",
     "@binance-chain/eslint-config": "^0.3.0",
     "@binance-chain/prettier-config": "^0.3.0",
     "husky": "^7.0.2"
